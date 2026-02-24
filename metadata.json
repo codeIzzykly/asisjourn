@@ -1,0 +1,7 @@
+{
+  "name": "FaceAttend - School Attendance System",
+  "description": "A real-time facial recognition system for school attendance tracking, featuring a live dashboard, student registration, and automated scanning.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
